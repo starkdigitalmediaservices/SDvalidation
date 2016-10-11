@@ -1,4 +1,4 @@
-# SDvalidation
+# SDValidation
 Validation library for Android
 
 SDValidation is an easy to implement validations for android.
@@ -17,12 +17,12 @@ Just call following methods
     compile 'com.android.support:design:22.2.0'
 
 
-2.	initialize EditText & TextInputLayout components
+2.	Initialize EditText & TextInputLayout components
+``` java
+   EditText editTextUsName=(EditText)findViewById(R.id.editTextUsName);
 
-EditText editTextUsName=(EditText)findViewById(R.id.editTextUsName);
-
-TextInputLayout input_lay_usname=(TextInputLayout)findViewById(R.id.ipusname);
-
+   TextInputLayout input_lay_usname=(TextInputLayout)findViewById(R.id.ipusname);
+```
 3.	Add SDValidation as External Library 
 
   Go to File > New > Import Module and import the library as a module 
