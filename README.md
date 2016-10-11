@@ -6,7 +6,10 @@ SDValidation is an easy to implement validations for android.
 Add as external library into your android project & sync it.
 The purpose of this library is to minimize your registration form validation functionality.
 ## Screenshots
-   
+  
+  ![Example](./screens/screen1.png "Example View")
+  ![Example](./screens/screen2.png "Example View")
+
 ## Warning
 •	Supports Minimum SDK level is 16 & above
 •	Require TextInputLayout for EditText
